@@ -7,6 +7,8 @@ Once you run transcribe.py with a timeout value (-t) you'll get both
 incremental output as data comes back, as well as a final stitching of
 things together. The output will look something like this.
 
+.. image:: docs/images/output.png
+
 I'm here 
 I'm here 
 I'm here 
