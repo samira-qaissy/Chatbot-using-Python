@@ -1,5 +1,5 @@
 
-.. image:: docs/images/input_audio.png
+.. image:: docs/images/voicee.png
 
 
 Expected Output
